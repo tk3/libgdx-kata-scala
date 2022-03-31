@@ -1,0 +1,1 @@
+# libgdx-kata-scala
